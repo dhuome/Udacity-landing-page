@@ -5,7 +5,7 @@
 This project requires you to create a multi-section landing page with a dynamically updating navigational menu based on the amount of content added to the page.
 # Demo-Preview
 
-- 
+- https://dhuome.github.io/Udacity-landing-page/
 
 - [Udacity Landing Page](#udacity-landing-page)
 - [Demo-Preview](#demo-preview)
